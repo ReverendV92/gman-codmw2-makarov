@@ -1,0 +1,15 @@
+vertexlitgeneric
+{
+	$basetexture models/v92/codmw2/characters/makarov/makarov_legs
+	$bumpmap models/v92/codmw2/characters/makarov/makarov_legs_normal
+
+	// $halflambert 1
+	$phong 1
+	$phongexponent 5
+	$phongboost .2	
+	$phongfresnelranges	"[ 0.1 0.2 1 ]"
+
+	$rimlight 1										
+	$rimlightexponent 							
+	$rimlightboost 0.1
+}

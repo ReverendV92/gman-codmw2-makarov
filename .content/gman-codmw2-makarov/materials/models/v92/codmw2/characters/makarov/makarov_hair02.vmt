@@ -1,0 +1,8 @@
+vertexlitgeneric
+{
+	$basetexture models/v92/codmw2/characters/makarov/makarov_hair02
+	$bumpmap models/v92/codmw2/characters/makarov/makarov_hair01_normal
+
+	$translucent 1
+	$nocull 1
+}

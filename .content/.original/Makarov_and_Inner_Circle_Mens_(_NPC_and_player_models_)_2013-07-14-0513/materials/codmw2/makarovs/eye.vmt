@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "codmw2/makarovs/eye"
+	"$halflambert" 1
+}
